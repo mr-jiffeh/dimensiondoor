@@ -15,15 +15,25 @@ if (!(Test-Path $source)) {
 
 Copy-Item $source $destination -Force
 
-Write-Host "Committing changes..."
+Write-Host "Checking for changes..."
 
-git add .
+git -C $repo add .
 
-git commit -m "Update campaign notes"
+$status = git -C $repo status --porcelain
 
-Write-Host "Pushing to GitHub..."
+if ($status) {
 
-git push
+    Write-Host "Changes detected. Creating commit..."
 
-Write-Host "Done! Dimension Door website will update shortly."
-pause
+    git -C $repo commit -m "Update campaign notes"
+
+    Write-Host "Pushing to GitHub..."
+
+    git -C $repo push
+
+}
+else {
+
+    Write-Host "No changes detected. Nothing to publish."
+
+}
