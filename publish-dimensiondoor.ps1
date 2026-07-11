@@ -2,10 +2,16 @@
 
 $source = "C:\Users\justin\Documents\DnD\ObsidianVault\DnD\DND Vault\Campaigns\Icewind Dale - ROTF\Notes\Icewind Dale - Rime of the Frostmaiden.md"
 
-$repo = Split-Path -Parent $PSScriptRoot
+$repo = $PSScriptRoot
 
 $destination = "$repo\content\Campaigns\Icewind Dale - Rime of the Frostmaiden.md"
 Write-Host "Copying latest campaign notes..."
+
+if (!(Test-Path $source)) {
+    Write-Host "ERROR: Campaign note not found:"
+    Write-Host $source
+    exit 1
+}
 
 Copy-Item $source $destination -Force
 
