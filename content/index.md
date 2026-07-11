@@ -4,8 +4,11 @@ title: Welcome to the Dimension Door
 
 This is the landing page for all current and past campaigns
 
+
 Current campaign: [[Icewind Dale - Rime of the Frostmaiden]]
 
-See the additional content pages for more information.
+Past Campaign: [[Waterdeep - Dungeon of the Mad Mage]]
 
-Update test #1
+
+See additional content pages for more information
+
