@@ -1,6 +1,6 @@
 # Dimension Door Campaign Publisher
 
-$source = "C:\Users\justin\Documents\DnD\ObsidianVault\DND Vault\Campaigns\Icewind Dale - ROTF\Notes\Icewind Dale - Rime of the Frostmaiden.md"
+$source = "C:\Users\justin\Documents\DnD\ObsidianVault\DnD\DND Vault\Campaigns\Icewind Dale - ROTF\Notes\Icewind Dale - Rime of the Frostmaiden.md"
 
 $destination = ".\content\Campaigns\Icewind Dale - Rime of the Frostmaiden.md"
 
