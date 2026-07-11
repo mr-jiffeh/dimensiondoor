@@ -1188,7 +1188,6 @@ Kelryth is attacked by the Gorilla, Thorbrek charges in and rages, then a panthe
 Thorbrek, in his grief, lets out an emotional raging primal scream. He is beyond saddened, his 'son' has passed. Grubtub is no longer with the Warden's...sad.
 ### Session 75
 
-TEST PowerShell commands - UPDATE #1
 
 
 
