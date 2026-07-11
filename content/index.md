@@ -1,13 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Dimension Door
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the landing page for all current and past campaigns
 
+Current campaign: [[Icewind Dale - Rime of the Frostmaiden]]
 
-TEST
-
-[[D&D - Player Screen]]
+See the additional content pages for more information.
 
 Update test #1
