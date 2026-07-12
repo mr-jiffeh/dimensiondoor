@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.name != "Wild Shapes.base"
+        - file.folder == "DND Vault/References/Rulebook/5.5e/Creatures/Wild Shapes"
+    image: note.cover

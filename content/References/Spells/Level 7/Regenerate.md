@@ -1,0 +1,22 @@
+---
+name: Regenerate
+level: 7
+school: Transmutation
+spell_lists: Bard, Cleric, Druid
+casting_time: 1 minute
+range: Touch
+duration: 1 hour
+components: V, S, M
+description: A creature you touch regains 4d8 + 15 Hit Points. For the duration, the target regains 1 Hit Point at the start of each of its turns, and any severed body parts regrow after 2 minutes.
+---
+
+# Regenerate
+
+_Level 7 Transmutation (Bard, Cleric, Druid)_
+
+**Casting Time:** 1 minute  
+**Range:** Touch  
+**Components:** V, S, M (a prayer wheel)  
+**Duration:** 1 hour
+
+A creature you touch regains 4d8 + 15 Hit Points. For the duration, the target regains 1 Hit Point at the start of each of its turns, and any severed body parts regrow after 2 minutes.

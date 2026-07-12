@@ -1,0 +1,24 @@
+---
+name: Mind Sliver
+level: 0
+school: Enchantment
+spell_lists: Sorcerer, Warlock, Wizard
+casting_time: 1 Action
+range: 60 feet
+duration: 1 round
+components: V
+description: You try to temporarily sliver the mind of one creature you can see within range. The target must succeed on an Intelligence saving throw or take 1d6 Psychic damage and subtract 1d4 from the next saving throw it makes before the end of your next turn.
+---
+
+# Mind Sliver
+
+_Enchantment Cantrip (Sorcerer, Warlock, Wizard)_
+
+**Casting Time:** Action  
+**Range:** 60 feet  
+**Components:** V  
+**Duration:** 1 round
+
+You try to temporarily sliver the mind of one creature you can see within range. The target must succeed on an Intelligence saving throw or take 1d6 Psychic damage and subtract 1d4 from the next saving throw it makes before the end of your next turn.
+
+**Cantrip Upgrade.** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).

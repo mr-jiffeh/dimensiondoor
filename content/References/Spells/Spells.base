@@ -1,0 +1,25 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("DND Vault/References/Rulebook/5.5e/Spells")
+        - '!file.basename.startsWith("Spells")'
+    order:
+      - file.name
+      - level
+      - school
+      - spell_lists
+      - range
+      - duration
+      - components
+      - description
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 132
+  - type: table
+    name: View

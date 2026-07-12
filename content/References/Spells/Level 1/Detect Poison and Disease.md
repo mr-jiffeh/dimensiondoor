@@ -1,0 +1,24 @@
+---
+name: Detect Poison and Disease
+level: 1
+school: Divination
+spell_lists: Cleric, Druid, Paladin, Ranger
+casting_time: Action
+range: Self
+duration: Concentraion, up to 10 min
+components: V, S, M
+description: For the duration, you sense the location of poisons, poisonous or venomous creatures, and magical contagions within 30 feet of yourself. You sense the kind of poison, creature, or contagion in each case.
+---
+
+# Detect Poison and Disease
+
+_Level 1 Divination (Cleric, Druid, Paladin, Ranger)_
+
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S, M (a yew leaf)  
+**Duration:** Concentration, up to 10 minutes
+
+For the duration, you sense the location of poisons, poisonous or venomous creatures, and magical contagions within 30 feet of yourself. You sense the kind of poison, creature, or contagion in each case.
+
+The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
