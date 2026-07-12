@@ -13,6 +13,7 @@ cover:
 only search bar
 show starred files
 ```
+
 # Rime of the Frostmaiden
 
 ## Adventuring Party
