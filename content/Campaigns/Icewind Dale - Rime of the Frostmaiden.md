@@ -25,10 +25,21 @@ show starred files
 | Gerald         | Human    | [[Druid]] :LiPawPrint:                           | Circle of the Moon  | Sean   |
 | [[Quasar]]     | Loxodon  | [[Druid]] :LiPawPrint:                           | Circle of the Stars | Danny  |
 | Thorbrek       | Dwarf    | [[Druid]] :LiPawPrint: / [[Barbarian]] :LiGavel: | Circle of the Land  | Logan  |
+
+### Important NPC & Locations
+
+> [!multi-column]- NPC + Locations
+>
+> > [!summary]+ NPCs
+> > ![[NPCs.base#List]]
+>
+> > [!summary]+ Locations
+> > ![[Locations.base#List]]
+
 # Latest Session
 
 
-[[Icewind Dale - Rime of the Frostmaiden#Session 75]]
+[[Icewind Dale - Rime of the Frostmaiden#Session 76]]
 
 ---
 ## Prologue
@@ -1178,7 +1189,7 @@ They wake, now knowing Greater Restoration. Quasar focuses, meditates, and heals
 
 ### Session 74
 
-There are contraptions, multi layered glass disks focused on a crystal, formed in a triangle pattern around the Obelisk. There is a chalk line that leads from the devices back to the obelisk. Quasar looks further along with X-25. Peering deeply into the obelisk...he dicserns the magic glyphs have something to do with 'time', as well as seeing the symbols of all the arcane schools of magic.
+There are contraptions, multi layered glass disks focused on a crystal, formed in a triangle pattern around the Obelisk. There is a chalk line that leads from the devices back to the obelisk. Quasar looks further along with X-25. Peering deeply into the obelisk...he discerns the magic glyphs have something to do with 'time', as well as seeing the symbols of all the arcane schools of magic.
 
 Group collects themselves, leaves courtyard, and moves towards the next tower they need. On the way they search for book stores or apothecary - looking for history and/or spell components.  Thorbrek sees a balcony with plants growing?? He leaps to the balcony, finding a small garden with purple tomatoes. He eats one, tasting lemon? odd. He harvests as many as he can. He eats one, harvesting x7. Kelryth, insanely hungry (cursed) immediately eats it....0 ration dice, again. Quasar finds mushrooms - hands out a few, 1d4 ration!
 
@@ -1187,12 +1198,18 @@ Gerald in bird form continues to scout, and sees something large - a massive hul
 Kelryth is attacked by the Gorilla, Thorbrek charges in and rages, then a panther appears out of nowhere and pounces on Quasar! When Quasar tries to heal himself, some sort of energy emits out of the creatures mouth...and redirects to the Gorilla, and takes force damage?! Gerald starry whisps...but nothing happens? Necrotic and radiant damage don't seem to work in this space near them? Wrath of sea fails...again. The cat regains its mind, no longer under control of Quasars command and immediately reenters the fight. Grubtub is chomped on by the Gorilla and tossed away - knocked unconscious! Thorbrek rages, ultra mad, punches the Gorilla and rips its jaw in two - dropping it lifeless to the ground, seething. Kelryth tries to wrath of sea him, but is targeted by some sort of magic beam?! Quasar is then attacked and blasted by the energy beam and instantly downed! Oh, shit! Kelryth knee slides to Quasar, force feeds him a superior healing potion and revives him. The cat creature shimmers, turns invisible and tries to flee - but Thorbrek strikes him once more before it runs away. The creature, seemingly wounded, lives to fight again. Gerald moves to chase after him but loses the scent. Quasar attempts to heal Grubtub, but he is missing his leg and not responding to healing magic.
 
 Thorbrek, in his grief, lets out an emotional raging primal scream. He is beyond saddened, his 'son' has passed. Grubtub is no longer with the Warden's...sad.
+
 ### Session 75
 
+Group takes a moment, Kelryth wraps his body in the salamander hide - gives the Rhemoraz heart as an offering to his warrior spirit, and places him upon the pack of Thorbrek.
 
+They move to the glass domed building, upon reaching the door they smell fresh rain/dew - no bugs or insects...but plants? The group moves inside, tentatively - with caution. Inside - on either side of the walkway, there are different biomes?! left is jungle, right is desert. Large contraption in middle of room - and two more biomes on the far side (mountain landscape far right with pine trees on mountain tops, far left has rocky ocean with rocks strewn about). Thorbrek enters the jungle biome, finding a set of bones from a rodent type creature long dead - but has antlers?! Thorbrek ventures deeper into the jungle biome to see if he can find anything else...but only finds more skeleton remains? They inspect the sea biome, finding only bones at the bottom of the 'sea'. Thorbrek slaps the central machine - it whirs to life as he activates the lever. He steps back, allows Quasar to attempt to operate the machine...but then immediately faints from blood loss!? His hand is pulled back, machine stays stuck on, but Kelryth rushes over and cure wounds him - restoring him back to life quickly. Kelryth spends the time to ritual cast Identify on the machine, to try and understand what type of magic may be powering it. Thorbrek puts his hand back in and activates it...taking 59 hp dmg! After some time, it whirs, and then !ding! The door to the machine unlocks and opens - mist rolls out then something leaps out of the doorway and onto the ground...a bunny rabbit, with wings! Thorbrek picks it up and snaps it neck...! Kelryth harvests the wing feathers to be used for fletching. *short rest x3 hit dice*
 
+Group leaves the building, makes their way to large courtyard and a bazaar of sorts. Inside the large building there is some sort of construct guard? Kelryth searches the kiosks - and finds diamond dust (x1). Thorbrek knocks stuff over while searching, everyone holds their breath, but the patrolling construct doesn't seem to notice or move? Group moves quickly to the large building and move inside, sign with label 'Bazaar Bazaar'. Inside they see a group of the blue boys (6 melee x 2 casters?). Thorbrek and Heather sneak in - immediately being shot at and being killed, with bunny Thorbrek looking into the different stalls. He finds a ring and broach - turns back to human, grabs items, and is immediately hit with an arrow. He then shifts back in animal form - and tries to flee. As this occurs though, the large construct sounds like he rushes towards the building - chasing x4 humans trying to hide?! They look to be members of Caer Dineval and Avarice's group! WHAT! Fight!
 
+Quasar conjures a giant insect, centipede, and attacks both the construct and one of the humans. The construct gets a hold of one of the Caer Dineval crew and slams him to the ground and kills him in once swing...! The blue men from the interior bazaar run to join the fight, chasing BunnyBrek. Thorbrek turns back to dwarf form, joins the fight, and the battle ensues. The bluemen only seem to target Thorbrek, X-25 gets stabbed repeatedly from the construct, bug attacks the humans near Quasar, and Kelryth grabs Thorbreks pack + remains of Grubtub and misty steps to the doorway - looking to get the hell out of the area and out of the death funnel inside the bazaar building. Group agrees and works to make their exit, and trying to slow their attackers pursuit.
 
+### Session 76
 
 
 
