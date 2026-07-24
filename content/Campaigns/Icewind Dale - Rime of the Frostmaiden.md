@@ -26,7 +26,7 @@ show starred files
 | [[Quasar]]     | Loxodon  | [[Druid]] :LiPawPrint:                           | Circle of the Stars | Danny  |
 | Thorbrek       | Dwarf    | [[Druid]] :LiPawPrint: / [[Barbarian]] :LiGavel: | Circle of the Land  | Logan  |
 
-### Important NPC & Locations
+### NPC & Locations
 
 > [!multi-column]- NPC + Locations
 >
@@ -39,7 +39,7 @@ show starred files
 # Latest Session
 
 
-[[Icewind Dale - Rime of the Frostmaiden#Session 76]]
+[[Icewind Dale - Rime of the Frostmaiden#Session 77]]
 
 ---
 ## Prologue
@@ -1207,10 +1207,23 @@ They move to the glass domed building, upon reaching the door they smell fresh r
 
 Group leaves the building, makes their way to large courtyard and a bazaar of sorts. Inside the large building there is some sort of construct guard? Kelryth searches the kiosks - and finds diamond dust (x1). Thorbrek knocks stuff over while searching, everyone holds their breath, but the patrolling construct doesn't seem to notice or move? Group moves quickly to the large building and move inside, sign with label 'Bazaar Bazaar'. Inside they see a group of the blue boys (6 melee x 2 casters?). Thorbrek and Heather sneak in - immediately being shot at and being killed, with bunny Thorbrek looking into the different stalls. He finds a ring and broach - turns back to human, grabs items, and is immediately hit with an arrow. He then shifts back in animal form - and tries to flee. As this occurs though, the large construct sounds like he rushes towards the building - chasing x4 humans trying to hide?! They look to be members of Caer Dineval and Avarice's group! WHAT! Fight!
 
-Quasar conjures a giant insect, centipede, and attacks both the construct and one of the humans. The construct gets a hold of one of the Caer Dineval crew and slams him to the ground and kills him in once swing...! The blue men from the interior bazaar run to join the fight, chasing BunnyBrek. Thorbrek turns back to dwarf form, joins the fight, and the battle ensues. The bluemen only seem to target Thorbrek, X-25 gets stabbed repeatedly from the construct, bug attacks the humans near Quasar, and Kelryth grabs Thorbreks pack + remains of Grubtub and misty steps to the doorway - looking to get the hell out of the area and out of the death funnel inside the bazaar building. Group agrees and works to make their exit, and trying to slow their attackers pursuit.
+Quasar conjures a giant insect, centipede, and attacks both the construct and one of the humans. The construct gets a hold of one of the Caer Dineval crew and slams him to the ground and kills him in once swing...! The blue men from the interior bazaar run to join the fight, chasing BunnyBrek. Thorbrek turns back to dwarf form, joins the fight, and the battle ensues. The bluemen only seem to target Thorbrek, X-25 gets stabbed repeatedly from the construct, bug attacks the humans near Quasar, and Kelryth grabs Thorbrek's pack + remains of Grubtub and misty steps to the doorway - looking to get the hell out of the area and out of the death funnel inside the bazaar building. Group agrees and works to make their exit, and trying to slow their attackers pursuit.
 
 ### Session 76
 
+Group makes their way out of the building, to top of the stairs, fighting the lone fighter who fled - while a giant beast and golem fight inside. Thorbrek is able to retrieve his pack (with Grubtub's body still attached), and spits poison at the runner. Vellynne dashes out of the room - all of the group has now exited the building while the fight continues inside - for the moment. The bug is zapped into dust as the blue caster ends its existence. The group doesn't appear to be perusing...yet? WolfGerald picks up Vellynne and runs after the group down the stairs - away from the sounds of battle between the Golem and Bluemen!
+
+Kelryth ray of frost the last remaining Avarice fighter - freezes him to a solid block of ice, and they set off towards the next tower quickly. They find a body, clearly smashed by the Golem, but no necklace? He looks  to be a mercenary for hire - but similar winter clothing as Avarice's group - Odd. Group moves on - to the nearest tower, finding a glowing green rune. Vellynne recognizes the symbol immediately - it is the tower of Necromancy!
+
+Thorbrek and Kelryth approach the door - hear something? listen closely - sound of some sort of pitter patter...? Door is opened - looking inside, there is plant matter growing over the walls and floor - the source of the greenish hue lighting. The air smells of chemicals and decay. The source of the sound is a scampering HAND! ITS DOZENS OF HANDS! They try to hide - unsuccessfully. The floor is caked in blood...trailing off down the corridor. They hear a voice 'who goes there?'. There is seemingly several voices? There is a table/shelf - and there are jars with brains! These are the sources of the voices!
+
+Galmia, Tyron, and Lawrence - the names of the brains in the jars, the disciples of the master of the tower. After talking to the jars for some time, group leaves them be and goes upstairs to the next floor. They find individual rooms with name plates, clearly some sort of personal quarters for the students. Gerald finds a spell scroll [unknown]. Going to the next floor - it is completely in disarray. In the corner of the room there appears to be a body. the clothes appear to be old/decayed...but the body itself is not decay? Limbs are twisted in unnatural shapes, though. There is a small green glint, and Thorbrek looks to inspect - finding a very large Emerald (1000g?). As he picks up the emerald, there is a sudden flash, blinks and looks around the room - and a new voice appears! It introduces himself as Necromancer Cadavix. Kelryth puts the body back into a normal position, cure wounds, and the High Necromancer Cadavix is restored to his body once more. Kelryth gives the emerald to unconscious Thorbrek...and he is restored! The Necromancer has used this spell before, Veneranda - placing her brain inside a construct, protecting the High Arch Mage...fully aware of herself/surrounding. He is told of the time difference from when he 'died' to now. Thorbrek demands the rune and passphrase. We tell him of the passing of his love and he is immediately distraught/saddened. He says he won't make his love wait long and attempts to end himself! Thorbrek stops it, briefly, as they want to try and get the rune and passphrase fist. Group convinces him not to kill himself and to offer up the information they seek. He reluctantly tells them:
+
+#passphrase "7th, trace the circle with the ashes of the dead"
+
+Thorbrek asks High Necromancer Cadavix if he cant revive Grubtub, normal like - not like Tic....he can! but he needs the spell component - Diamond (1000g). He can take their soul, from the afterlife, and put it back?! But it comes at a cost? It exacts a toll on the individual resurrected. They need to find a diamond, its is their only chance to bring him back. Perhaps they may find one across the city? Cadavix opens up the chest holding the ruin and also finds large tomb, spell book with clasp, made of undead leather. Vellynne is gifted his spell book! He tells them what the Mythallar is and what it can do - it is a magical artifact (significant magical power from long ago). Vellynne tries to convince Cadavix not to kill himself, yet - he has much to live for. Group then leaves - heading to the nearest building - big building spikey edges?
+
+### Session 77
 
 
 
