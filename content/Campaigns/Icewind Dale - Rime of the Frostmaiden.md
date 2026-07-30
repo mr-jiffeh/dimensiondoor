@@ -39,7 +39,7 @@ show starred files
 # Latest Session
 
 
-[[Icewind Dale - Rime of the Frostmaiden#Session 77]]
+[[Icewind Dale - Rime of the Frostmaiden#Session 78]]
 
 ---
 ## Prologue
@@ -1217,7 +1217,7 @@ Kelryth ray of frost the last remaining Avarice fighter - freezes him to a solid
 
 Thorbrek and Kelryth approach the door - hear something? listen closely - sound of some sort of pitter patter...? Door is opened - looking inside, there is plant matter growing over the walls and floor - the source of the greenish hue lighting. The air smells of chemicals and decay. The source of the sound is a scampering HAND! ITS DOZENS OF HANDS! They try to hide - unsuccessfully. The floor is caked in blood...trailing off down the corridor. They hear a voice 'who goes there?'. There is seemingly several voices? There is a table/shelf - and there are jars with brains! These are the sources of the voices!
 
-Galmia, Tyron, and Lawrence - the names of the brains in the jars, the disciples of the master of the tower. After talking to the jars for some time, group leaves them be and goes upstairs to the next floor. They find individual rooms with name plates, clearly some sort of personal quarters for the students. Gerald finds a spell scroll [unknown]. Going to the next floor - it is completely in disarray. In the corner of the room there appears to be a body. the clothes appear to be old/decayed...but the body itself is not decay? Limbs are twisted in unnatural shapes, though. There is a small green glint, and Thorbrek looks to inspect - finding a very large Emerald (1000g?). As he picks up the emerald, there is a sudden flash, blinks and looks around the room - and a new voice appears! It introduces himself as Necromancer Cadavix. Kelryth puts the body back into a normal position, cure wounds, and the High Necromancer Cadavix is restored to his body once more. Kelryth gives the emerald to unconscious Thorbrek...and he is restored! The Necromancer has used this spell before, Veneranda - placing her brain inside a construct, protecting the High Arch Mage...fully aware of herself/surrounding. He is told of the time difference from when he 'died' to now. Thorbrek demands the rune and passphrase. We tell him of the passing of his love and he is immediately distraught/saddened. He says he won't make his love wait long and attempts to end himself! Thorbrek stops it, briefly, as they want to try and get the rune and passphrase fist. Group convinces him not to kill himself and to offer up the information they seek. He reluctantly tells them:
+Galmia, Tyron, and Lawrence - the names of the brains in the jars, the disciples of the master of the tower. After talking to the jars for some time, group leaves them be and goes upstairs to the next floor. They find individual rooms with name plates, clearly some sort of personal quarters for the students. Gerald finds a spell scroll [unknown]. Going to the next floor - it is completely in disarray. In the corner of the room there appears to be a body. the clothes appear to be old/decayed...but the body itself is not decay? Limbs are twisted in unnatural shapes, though. There is a small green glint, and Thorbrek looks to inspect - finding a very large Emerald (1000g?). As he picks up the emerald, there is a sudden flash, blinks and looks around the room - and a new voice appears! It introduces himself as Necromancer Cadavix. Kelryth puts the body back into a normal position, cure wounds, and the High Necromancer Cadavix is restored to his body once more. Kelryth gives the emerald to unconscious Thorbrek...and he is restored! The Necromancer has used this spell before, Veneranda (she is somewhere within the central tower) - placing her brain inside a construct, protecting the High Arch Mage...fully aware of herself/surrounding. He is told of the time difference from when he 'died' to now. Thorbrek demands the rune and passphrase. We tell him of the passing of his love and he is immediately distraught/saddened. He says he won't make his love wait long and attempts to end himself! Thorbrek stops it, briefly, as they want to try and get the rune and passphrase fist. Group convinces him not to kill himself and to offer up the information they seek. He reluctantly tells them:
 
 #passphrase "7th, trace the circle with the ashes of the dead"
 
@@ -1225,6 +1225,50 @@ Thorbrek asks High Necromancer Cadavix if he cant revive Grubtub, normal like - 
 
 ### Session 77
 
+As they move towards the building, a green energy orb passes by - and unleashes a zap, disintegrating the light pole! It seems to sense their presence. Thorbrek tries to throw a rock to distract it...and before it hits it - the rock disappears into dust! Thorbrek jumps to the rooftop, beard is zapped, and dashes away - but is pursued by the orb on the roof! The group takes the opportunity and runs the direction they were moving towards the building. 
+
+As they make their escape, now Thorbrek and Gerald begin to feel sick (AND Vellynne!)(...the same sickness that Kelryth had and Quasar suffers. Oh, no. It is a magical sickness, not natural. What is the source?
+
+Group makes their way to the building, notice bodies and blocks of ice - clearly some sort of fight occurred here, the remains of cat with eye on tail, some of Avarice's minions wearing the necklaces, and gorilla bear creature. Vellynne casts [[Speak with Dead]] on one of the human fights least mangled from the fight. Quasar is NOT effective at questioning, the group works with Vellynne to ask more effective questions.
+
+1. There were '40' of Avarice's fights that arrived to the city behind them
+2. Avarice location is: in the city
+3. Does Avarice know how to enter the central tower: I don't know
+4. Where is Avarice's base camp within the city: Small tower, large glass dome. (docking for floating boat)
+
+Group moves inside to explore further, getting off the street now that they know so many more of Avarice's group may be lurking about. It appears to be a large auditorium with benches in rows, stage, perhaps a school house of sorts. Stain glass windows show a Wizard casting a spell - each window a different school of magic. In the center of the room is a pedestal - on top there is a goblet encrusted with jewels. Along the outside of the room, there are additional pedestals with beams of light with object suspended within the light. Kelryth investigates the right beam of light on the first pedestal - there is fine glass crystal blade sword! the pedestal has some sort of abjuration barrier in place. The other pedestal has a very fine red robe made of scales! Quasar attempts to vine whip the goblet off the pedestal...hits it, knocks it to the ground... oof.  He inspects it - gold goblet with x8 different gemstones. Far side of the room there are stairs that lead down - with a strong chemical smell coming up. Big metal doors bent open - clearly something got out? Pedestal 3 has some sort of braces with multi color and twinkling stars glowing within. 
+
+Thorbrek dispels magic by headbutting the pedestal with the sword - Kelryth grabs it out of the air and identifies it.
+
+[[Mirror Light Blade]] - +2 Scimitar, Action: x2 ghostly projections appear around the blade - last until dismiss, when you swing the sword projections make the sword hard to see (recharge on long rest). If you hit with projection active, 1d4 slashing extra.
+
+**Short Rest** - time spent identifying items, x2 for Thorbrek, x1 for Quasar
+
+- Broach of many sizes - interactive dial, enlarge/reduce self x1 per long rest, while under affect of spell you can over crank it - d100 (30% or lower - stuck at this size for 5 days).
+- Ring of Seething - requires attunement, choose a creature type (aberration, celestial, fay, fiend, undead, dragon) - deal extra 1d8 against creature type and sense their presence within 60', can change creature type every Long Rest
+- Goblet of Charms - person who drinks from it gets a random charm (one from a school of magic), that lasts for 24 hours.
+
+Quasar attempts to dispel magic on the pedestal with braces, is unable to do so....magic flash, TURNS TO A BROOM and falls to the ground. Well, shit - not again. Kelryth straps the broom to his pack and they move off.
+
+They move down into the room, finding large tanks filled with greenish liquid of some kind - lab smells. Investigating reveals a book of notes with diagrams, anatomies of various creatures, detailed notes of some sort. It appears these creatures were made to...fight wizards? Odd. 'The Absorber' - developed to absorb spell and redirect it back at caster. Bear creature - reverser, could nullify healing magic. 
+
+Group goes upstairs and Thorbrek pours the acid jar onto one of the pedestals - the barrier flickers...and shuts off! Success! The bracers are revealed - and identified.
+
+Drift Bangles, attunable, strange gravity field emits from the interior of the bracers - floating around wrist, granting the ability to hover, under permanent [[Feather Fall]] spell, immune to prone condition. Can cast the [[Reverse Gravity]] spell, but doing so nullifiers magic within the bracers for x4 days.
+
+Kelryth attempts to burn the last pedestal with fire....but doesn't affect the force field, sigils remain in place. Damn - leave it for now, possible return later.
+
+Group leaves, as they move - Kelryth hears a humming...oddly familiar, but no one else? Coming out of the shadows walks a man, looks to be very malnourished/starving, but looks to be wearing fine sailing leathers/coat, tricorn hat, pistol on bandolier, sword on hip. It is Capt. Byron Flint... HOW?! "Why'd you do it, lad...we have been through so much together". Kelryth "it was me or you, and I had more to do". Everyone in the party....is now some sort of skeleton/zombie, dead former crew member - he is hallucinating!
+
+"You can't run forever, lad - we must all pay our debts!" - Capt. Byron Flint cackles. 
+
+Kelryth is being chased by Zombie Thorbrek - casts ray of frost, but misses?! Thorbrek catches up and tackle Kelryth! Kelryth spins around, looks to plunge his sword into the zombie...but sees Thorbrek? He appears to have snapped out of whatever he was afflicted by. Thorbrek ties Kelryth to X-25 for his safety...or so he says. Out of nowhere, Quasar returns to form from a broom - crushes Kelryth as he is now back. What the hell is going on?!
+
+After some travel time, Quasar now hears from someone from his past as well! No one else sees or hears who he is talking to. They are talking down and belligerently to Quasar - calling him pathetic, not one of them, a drain on their resources....'what a waste you are!'. His mother appears - also talking down to him, despite knowing she wouldn't? She recalls when they first met, taunting the moment she found him out in the cold - disgusted by him. "you're an orphan, you are NOT one of us!". Gerald tries to snap Quasar out of it, but - to him, it appears as if he is an Elf. Thorbrek tries to get him to snap out of it, doesn't work. Kelryth tries to shocking grasp him - to no avail. Kelryth grabs his pink stone - speaks to Quasar in his mind, and tells him that it isn't real, its a hallucination - SNAP OUT OF IT. Quasar hears, and starts to realize he may be under the influence of something...and stops resisting, and snaps out of it - now seeing the party around him. 
+
+Thorbrek and Gerald scan the area - this doesn't seem right, is someone nearby casting something on them? Group moves across the opening, towards the next tower - yellow glowing lights, it is the Tower of Conjuration. As they get closer, several forms of motionless bodies coming into sight in different states - laying hunched over, on the ground, blocks of ice, another battle was here! Whatever killed them doesn't appear to be among the dead, though. Unable to tell where it may have gone from here.
+
+### Session 78
 
 
 
