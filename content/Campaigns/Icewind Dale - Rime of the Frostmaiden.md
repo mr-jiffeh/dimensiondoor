@@ -1240,7 +1240,7 @@ Group moves inside to explore further, getting off the street now that they know
 
 Thorbrek dispels magic by headbutting the pedestal with the sword - Kelryth grabs it out of the air and identifies it.
 
-[[Mirror Light Blade]] - +2 Scimitar, Action: x2 ghostly projections appear around the blade - last until dismiss, when you swing the sword projections make the sword hard to see (recharge on long rest). If you hit with projection active, 1d4 slashing extra.
+[[Mirror Light Edge]] - +2 Scimitar, Action: x2 ghostly projections appear around the blade - last until dismiss, when you swing the sword projections make the sword hard to see (recharge on long rest). If you hit with projection active, 1d4 slashing extra.
 
 **Short Rest** - time spent identifying items, x2 for Thorbrek, x1 for Quasar
 
@@ -1266,9 +1266,33 @@ Kelryth is being chased by Zombie Thorbrek - casts ray of frost, but misses?! Th
 
 After some travel time, Quasar now hears from someone from his past as well! No one else sees or hears who he is talking to. They are talking down and belligerently to Quasar - calling him pathetic, not one of them, a drain on their resources....'what a waste you are!'. His mother appears - also talking down to him, despite knowing she wouldn't? She recalls when they first met, taunting the moment she found him out in the cold - disgusted by him. "you're an orphan, you are NOT one of us!". Gerald tries to snap Quasar out of it, but - to him, it appears as if he is an Elf. Thorbrek tries to get him to snap out of it, doesn't work. Kelryth tries to shocking grasp him - to no avail. Kelryth grabs his pink stone - speaks to Quasar in his mind, and tells him that it isn't real, its a hallucination - SNAP OUT OF IT. Quasar hears, and starts to realize he may be under the influence of something...and stops resisting, and snaps out of it - now seeing the party around him. 
 
-Thorbrek and Gerald scan the area - this doesn't seem right, is someone nearby casting something on them? Group moves across the opening, towards the next tower - yellow glowing lights, it is the Tower of Conjuration. As they get closer, several forms of motionless bodies coming into sight in different states - laying hunched over, on the ground, blocks of ice, another battle was here! Whatever killed them doesn't appear to be among the dead, though. Unable to tell where it may have gone from here.
+Thorbrek and Gerald scan the area - this doesn't seem right, is someone nearby casting something on them? Group moves across the opening, towards the next tower - purple glowing lights, it is the Tower of Conjuration. As they get closer, several forms of motionless bodies coming into sight in different states - laying hunched over, on the ground, blocks of ice, another battle was here! Whatever killed them doesn't appear to be among the dead, though. Unable to tell where it may have gone from here.
 
 ### Session 78
+
+Gerald wargs into his owl, investigates the highest window in the tower - but has an intense feeling of dread wash over him...! Strands of of miasma appear to coming through the edges of the window, as if it is leaking out uncontrolled. On the floor below, there is a large bedroom/study that looks tossed and in dismay. Further below that is some sort of larger classroom style study - far less disturbed. Heather Owl flies into the study and immediately is dispelled - vanishes, poof! Group reluctantly goes inside - not wanting to stay outside on the street in view of others.
+
+Gerald enters and hears the sounds of child playing, almost sounding like the daycare he established within Bryn Shander...but then the sounds shift from laughing to screaming, in fear. He sees figures step out of the darkness from the shadows, children from town shivering from the cold. "Mr. Gerald, you LEFT US...we are so cold...help us!"
+
+Group shakes it off, recovers, and moves to the sole door in the room. Kelryth reaches out  and touches the door...POOF. He disappears immediately! Thorbrek charges the door while it still glowing - hits it, sound of the hit rings through the air, but nothing happens? After trying it, they touch it once the glowing stops and both Quasar and Thorbrek disappear too!
+
+Kelryth, Thorbrek, and Quasar appear to be in a nice study? There are people here, in the far corner of the room - talking to someone or something?! Kelryth tries to reason with the nearest Avarice Merc, but he runs and Thorbrek thorn whips him closer...he doesn't seem to yield. The corpses strewn across the room appear to be from the same mercenary group - relatively freshly killed. one of the Mercs calls out to Levistus for help and then moves to strike Quasar? Fight! The group initially tried to reason, but violence was the answer...again. After far too many efforts, both of the mercenaries are struck down - one a block of ice, the other unconscious. 
+
+Kelryth investigates the other corpses in the room while they try to stabilize the merc, finding #loot recording disk, 40G, emerald (large), Ythryn nicknacks (x4). 
+
+Activating the recording disk: young shoulder length hair, wounded - blood dripping down head, bruised face, concerned look, "I don't know what happened, I can't say for sure, I think the city has fallen!? There was a thunderous crash, blacked out, and when I came to everything was in disarray. I could not find the master - Damorith. when I went to find the master, the rest of the students are all dead - they all hallucinated and attacked each other? IT must be the experiment, it must be the creature who broke free. I must go check! This thing must not get free, for the sake of Ythryn!"
+
+Quasar finds a cage with a shape shifting creature in the cabinet, takes it with him, and they use the door on far side of room to teleport to the next floor. Once in the room they investigate, find a chest, unlock it - and find the following #loot wand, history disk, wooden box, nicely bound leather bound book with arcane symbols. x1 diamond dust, spell components/reagents ()
+
+Holodisk plays "Master has done it, we have summoned a creature from the abyss! It has been confined within a protective barrier of our making. Master thinks we can harness his power to forge new magical items beyond Netherese powers. With this magic unlocked, we can raise Ythryn to new magical prowess. The barrier is holding well." 
+
+Suddenly - the lights flicker, and the collective group suffers the same vision...Grubtub appears, asking Thorbrek why he let him die?! Thorbrek freezes in a stunned state. "Papa, you failed me...I'm dead because of you!". There are spider like shadow creatures appearing - crawling along the walls and roof towards the group. Thorbrek tries to attack fake dead Grubtub, snaps out of stupor, but then we are surrounded by large spider shadow creatures. Fight! (X-25 doesn't see them?!) - but the damage they deal is real and felt. They right their way out and move to the door to flee - grab hands, and teleport out of there - before even more shadow spiders swarm the room!
+
+They pass through the lecture hall area, touch another door - and pass to the next room, putting space between them and the shadow spiders, trying to find their way to the top and find the sigil. They find their way into an adjacent room, looking through the tattered remains. There appears to be a dollhouse and arcane symbols upon the wall.  Gerald shrinks himself, goes inside the house - and looks to investigate what appears to be humanoid feet in boots behind a curtain? Odd. Thorbrek reaches out and grabs the person - they are alive, and shriek! He is bit on the palm of his hand by the individual - ow! The person looks like a member of Avarice's mercenaries! How the hell did he get inside? He claims he can't say, unknown why fully, but was put here by the creature in the tower - and has had his mind messed with by it. He stops answering questions, eyes glow blue, and slits his own throat! He turns into a tiny ice cube...ffs.
+
+The arcane symbols are spread across x4 different bricks - each of a glowing creature (rat, snake, cat, owl).
+
+### Session 79
 
 
 
