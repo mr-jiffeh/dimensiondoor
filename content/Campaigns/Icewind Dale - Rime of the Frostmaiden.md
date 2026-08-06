@@ -1293,6 +1293,11 @@ They pass through the lecture hall area, touch another door - and pass to the ne
 The arcane symbols are spread across x4 different bricks - each of a glowing creature (rat, snake, cat, owl).
 
 Quasar comes over with the cage shapeshifting creature - sees the arcane symbols, pushes them in the order it is changing and it reveals a hatch! Inside is a large chest, covered in ornate gold, gemstone encrusted lid! Opening the lid, it has velvet cushioned lining and reveals...nothing. What?! What was inside this chest before being found?
+
+Vellynne casts detect magic - and confirms it is magical, but not sure how it functions or what was once inside it. Kelryth identifies it - determining it to be 'Abracadabrus'.
+
+Abracadabrus - has x20 charges, not attunable, anyone can cast using the chest to have a non magical item appear. regain 1d20 charges at dawn (1 - loses magic ability).
+
 ### Session 79
 
 
