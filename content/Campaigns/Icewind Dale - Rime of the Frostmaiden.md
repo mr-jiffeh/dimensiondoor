@@ -39,7 +39,7 @@ show starred files
 # Latest Session
 
 
-[[Icewind Dale - Rime of the Frostmaiden#Session 78]]
+[[Icewind Dale - Rime of the Frostmaiden#Session 79]]
 
 ---
 ## Prologue
