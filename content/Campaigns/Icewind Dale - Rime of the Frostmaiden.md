@@ -1300,6 +1300,6 @@ Abracadabrus - has x20 charges, not attunable, anyone can cast using the chest t
 
 ### Session 79
 
-
+*Power Outage - Discord only, recap below:*
 
 
