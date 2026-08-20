@@ -1302,4 +1302,41 @@ Abracadabrus - has x20 charges, not attunable, anyone can cast using the chest t
 
 *Power Outage - Discord only, recap below:*
 
+#LevelUp (Level 10)
+
+Group found the entity messing with their minds, a little girl who had been trapped for years? The group is uneasy, doesn't like it, and Kelryth moves to press the handle and re-enforce the barrier...SHIT - the controls were misrepresented... the girl transforms, force field drops, and a massive fight ensues! Avarice and a few of her fighters show up, leave - assuming they will be killed by the creature. They survive, taking a few of Avarice's fighters down too - but unable to catch up with her before she is gone on, presumably to the next tower. They set off and make their way to the next tower.
+
+partial #passphrase  Conjuration:  “ 'blank ;summon a 'blank' of your hand”
+
+On the way, they notice an ambient glow coming from the tower - casting a glow on the sky and across the streets/buildings in the vicinity. As they approach they see an almost autumn like tree canopy covering the bowl like area. There is a stone barrier, like a retaining wall with vents, that seem to be misting a weather like ambiance...its raining? The trees are unknown the the group - not native to Icewind Dale. odd. In the center of the grove, there is a faced tree that is...sleeping! 
+
+Group wakes him up, stopping Quasar from assaulting him, and he awakens, stretches, and seems to respond and speak to the group. He confirms he is Nether Oak. He offers what he knows, is friendly, and then the group sets off towards the tower - Tower of Divination, giving off a soft white glow. It looks to be different shape and style of tower, shorter than the others with a different domed roof. 
+
+The door won't budge, being held by some non mechanical means? They walk around the tower to find another way in - through a crack in the wall. Kelryth gets stuck - but then is shoved through by Thorbrek, landing down on the ground - oof. Once inside, there are large sphere strewn about the room - some floating, some cracked from the likely fall, emitting various colors. In the middle of the room there is a metal structure made of metal rings - projecting a starry scene across the room. Outside there are numerous one eyed creatures along the rooftops overlooking the group outside the tower.
+
+The group spends time shapeshifting and forcing their way through the crack - they are all inside now, except X-25 who is attempting to hide outside.  Thorbrek sees ghost like projections of the group walk around and inspect, but their physical forms remain? The doors are welded shut from the inside - unknown as to how or by what. Quasar inspects the room - and determines the large orbs are planets, clearly some sort of planetarium? After inspecting the stars, Quasar and Kelryth assume they are stars not above this planet...no memorable constellations are visible, but Quasar has a wonderous feeling - this may be what he has been searching for? Quasar then has some sort of visions - seeing the ethereal versions of each of the party being attack, Kelryth dead - eaten by a swarm of creatures, Vellynne clawed to death, Gerald shaking them to pieces, Thorbrek fighting them off. There is a larger one eyed creature, wearing robes and hood, with a staff?! ARE THEY FERAL WIZARDS? 
+
+They decide to make their way to the stairs, but as soon as they do - coming through the cracks, they emerge and enter the room - Fight!
+
+Spike growth is cast, Thorbrek and Kelryth move for the stairs, calling out to their group to join them. Quasar is surrounded, disengages, shifts into a hawk and flies towards the stairs. He has seen their deaths...he doesn't want to make it reality. The larger one eyed robe wearing wizard creature appears from a crack in the wall... oh, no. Kelryth attacks and runs up the stairs finding a ladder leading up to a trap door, no where else to go. The hatch at the top isn't locked, and the group moves to enter while the creatures reach the base of the ladder, whew.
+
+Inside the next room, there is a large telescope - looking through the glass roof. There is a Frog creature wearing robes sitting and looking up, with books strewn about. Thorbrek scrambles to move furniture onto the hatch while Kelryth sits atop it to slow the pursuit of the one eyed creatures. Frog is named High Diviner Apius. He offers to work with us for information as to how to escape the city. He has been trapped for thousands of years, looking for a way out (was not originally a frog?). Kelryth draws up the map in exchange for the Arcane rune - but the passphrase is in her spell book - lost since the fall (white and gold bound book with her name on it - somewhere in the city is as best a description as they can get). The Frog wizard leaves the tower through the hatch, goes downstairs - a loud explosion occurs, shaking the tower...sounds of magic hitting each of the nothic creatures, leaving everything dead in her wake. The High Diviner casts something to break the door free from the frame! In the top of the tower, Thorbrek is seemingly unable to resist looking through the telescope - even after the warning from Apius that it requires a minimum constitution to get it to work and survive from its effect? He looks through it, sees darkness, but then the vision shifts - and he is able to see through it as if he was above the city, warping to roof height, then street - its as if he is moving quickly through the space, finding a shop 'Cosmos Arcane Implements' - a shop with spell components, possibly with a large diamond for resurrecting Grubtub! As he pulls back from the telescope - he feels an extremely sharp pain of needles into his eye...HIS EYE IS REMOVED. HE IS [[Blinded]], permenantly?!  
+
+### Session 80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
