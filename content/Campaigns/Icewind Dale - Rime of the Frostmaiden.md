@@ -39,7 +39,7 @@ show starred files
 # Latest Session
 
 
-[[Icewind Dale - Rime of the Frostmaiden#Session 79]]
+[[Icewind Dale - Rime of the Frostmaiden#Session 80]]
 
 ---
 ## Prologue
@@ -1323,6 +1323,29 @@ Spike growth is cast, Thorbrek and Kelryth move for the stairs, calling out to t
 Inside the next room, there is a large telescope - looking through the glass roof. There is a Frog creature wearing robes sitting and looking up, with books strewn about. Thorbrek scrambles to move furniture onto the hatch while Kelryth sits atop it to slow the pursuit of the one eyed creatures. Frog is named High Diviner Apius. He offers to work with us for information as to how to escape the city. He has been trapped for thousands of years, looking for a way out (was not originally a frog?). Kelryth draws up the map in exchange for the Arcane rune - but the passphrase is in her spell book - lost since the fall (white and gold bound book with her name on it - somewhere in the city is as best a description as they can get). The Frog wizard leaves the tower through the hatch, goes downstairs - a loud explosion occurs, shaking the tower...sounds of magic hitting each of the nothic creatures, leaving everything dead in her wake. The High Diviner casts something to break the door free from the frame! In the top of the tower, Thorbrek is seemingly unable to resist looking through the telescope - even after the warning from Apius that it requires a minimum constitution to get it to work and survive from its effect? He looks through it, sees darkness, but then the vision shifts - and he is able to see through it as if he was above the city, warping to roof height, then street - its as if he is moving quickly through the space, finding a shop 'Cosmos Arcane Implements' - a shop with spell components, possibly with a large diamond for resurrecting Grubtub! As he pulls back from the telescope - he feels an extremely sharp pain of needles into his eye...HIS EYE IS REMOVED. HE IS [[Blinded]], permenantly?!  
 
 ### Session 80
+
+X-25 looks through it - after some time...nothing, he sees nothing. Quasar tries to search for the Frozen Prince, but nothing happens - unable to locate him. He then searches for the spell book - and it zooms into the area immediately south of them, zooming again - identifying a large 2 story building, small tiny rectangular windows - barred. Zooming in through the front door - large steel door, like a vault door...held by someone with white hands?! Interesting...Confirming Thorbrek's theory...and then feels an excruciating pain and HIS EYE IS SUCKED OUT TOO. HE LOST AN EYE.
+
+**Long Rest**
+
+Kelryth crafts some eye patches for Thorbrek and Quasar. Attune to new items.
+
+After waking up, both Thorbrek and Gerald look rough...the sickness is affecting them more. Their hair begins to fall out, looking haggard, congested, sick. 
+
+Quasar brews tea - each take a drink. Kelryth is able to cast [[Blade Ward]] (24hours). Others get benefit - differing, based on roll. (goblet of charms).
+
+Group sets off, moving through the tree grove - but the Tree Ent is not there? He seemed to unroot himself and leave? They follow to tracks and find him off into the woods, he is speaking to someone or something - saying not to worry he is awake. Odd. The group approaches, quietly, but find out he is speaking to his trees as he tends to them. Group reinforces the risk of Avarice, asks for her to be contained if she ever comes through the forest.
+
+Onward they go - towards the building seen through the telescope by Quasar - towards the vault/secure building that likely has the book? On the way, they get close to the building - and Heather sees a couple individuals standing upon the stairs of the building, looking to be humanoids - part of Avarice's crew! They seem to be milling about, partially scanning the area, but not alerted to their presence. 
+
+Heather scouts the barred windows - seeing the eye creatures are captured? Group turn into animals and fly up. Kelryth in bird form goes in and is immediately attacked by the creature, shit! Kelryth hears - the creature say 'it doesn't matter what form you take, you will be delicious nonetheless'! Grappled. Kelryth then shape shifts back to normal form - and readies himself. Gerald and Thorbrek get through the cell into the hallway... leaving Kelryth, again. Kelryth uses his new sword, swings, and absolutely slashes the creature - but he remains up, misty step away and leaves Quasar who scurries away as a spider into the hallway. While in the hallway, some of the group is afflicted with necrotic damage? Gerald and Thorbrek race for the stairs and door beyond - while Kelryth and Quasar are stuck behind...as the doors to the prison open, one by one. SHIT - RUN!
+
+Kelryth stays behind to help Vellynne escape, while the rest of the group are through the door - waiting for them to rejoin if they can escape. More of them come rushing forward as Vellynne unleashes [[Circle of Death]] on them! Gerald casts moonbeam on the creatures...and then the next room of bars energy vanishes and now there are more creatures to deal with...! Kelryth uses his spell scroll of [[Ashardalon's Stride]] and rushes forward, making it to the door - but Vellynne is still behind as more rush forward! Gerald's moonbeam does seem to slay a few, but the overwhelming force is on their heals and gaining quickly. Kelryth casts lightning bolt - zapping the other row or creatures as they manage to get the door closed and Vellynne slams shut the locking bar. The sound of banging rings - but, they have a moment of reprieve from the onslaught.
+
+### Session 81
+
+
+
 
 
 
