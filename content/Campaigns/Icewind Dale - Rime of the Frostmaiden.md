@@ -1344,12 +1344,16 @@ Kelryth stays behind to help Vellynne escape, while the rest of the group are th
 
 ### Session 81
 
+Group takes a moment, gathers themselves and unlocks the nearest door. It has been sealed for what seems to be a long, long time. Inside the room looks to have flat beds/tables with padding? there are straps that look to lock to the table? The one table there appears to be one table strapped - but cant see the figure? It appears to be a person?! Quasar starry whisps, and the invisible man is revealed! Still no response? Dispel magic casted on the figure - and is fully revealed and awakens! His skin is insanely pale, gasping for air through the dust.  He drinks from the canteen, gulping, but his eyes are fully white - odd. His name is Xenophon - claims to be a low born farmer from the surface, but - something seems off. They untie him, arm him, and let him join the group. Odd. As group progressed down hall - a green barrier appears behind them, blocking their path back. Onward - to the only door ahead of them.
 
+Kelryth opens the door - hears a voice, echoing through the room. "ah, Wardens, glad you survived and are here - we've been waiting for you". It is Avarice - in side a large room with cells and other members of her party, along with one eyed creature with a staff (not attacking Avarice - with her?). "ah, this is much better, face to face. I believe this is where our adventure ends.... you see, there is no escape or retreating, I will have what is **mine** and what I am **owed**. Now - surrender, give me what is mine. The central tower is mine to enter!"
 
+FIGHT!
 
+Avarice is at the panel, hits buttons, and Kelryth disappears?! The foot soldiers rush forward, while Xeno starts slashing away with his newly equipped rapier. There is a strange creature behind the glass with Avarice...he reaches out, closes his eyes, and Quasar has to make a saving throw! THE CREATURE IS READING HIS MIND AND LEARNING THE ARCANE RITUALS! Quasar summons a giant centipede and attacks the one eyed creature. Kelryth was teleported into a jail cell...shit. He misty steps out of there and works his way towards the control room. Gerald is hit but also makes his way to the stairs while Thorbrek and Quasar fight near the door. The machine whirs again, and Gerald is stunned - unable to move. Xeno moves not like a farmer...but a battle hardened warrior - slicing down a guard in one swing of the sword. Who the hell is he? The group keeps fighting - striking down a few, but the fight doesn't seem to be improving, the room still has effects, Avarice is away from the group entirely, and the one eyed creature disappeared...somewhere. Prison doors open and a wave of creatures are released into the room... shit.
 
-
-
+Kelryth flies into the room, thunder waves - hitting both Avarice and the one eyed Nothic leader, but then disappears from Avarice...AGAIN. Thorbrek strikes down one of Avarice's men as well as hits the nothic minions for massive damage, while Gerald runs into the console room and attacks both Avarice and the Nothic wizard(?). Avarice misty steps away into the main area - exposing herself to the room, while attacking Quasar. Vellynne strikes down some more as well - the battle far from over, but not seeming as overwhelming as it did to start.
+### Session 82
 
 
 
