@@ -39,7 +39,7 @@ show starred files
 # Latest Session
 
 
-[[Icewind Dale - Rime of the Frostmaiden#Session 82]]
+[[Icewind Dale - Rime of the Frostmaiden#Session 83]]
 
 ---
 ## Prologue
@@ -1355,10 +1355,20 @@ Avarice is at the panel, hits buttons, and Kelryth disappears?! The foot soldier
 Kelryth flies into the room, thunder waves - hitting both Avarice and the one eyed Nothic leader, but then disappears from Avarice...AGAIN. Thorbrek strikes down one of Avarice's men as well as hits the nothic minions for massive damage, while Gerald runs into the console room and attacks both Avarice and the Nothic wizard(?). Avarice misty steps away into the main area - exposing herself to the room, while attacking Quasar. Vellynne strikes down some more as well - the battle far from over, but not seeming as overwhelming as it did to start.
 ### Session 82
 
+Quasar is teleported - the room seems to choose at random? finding himself in another of the jail cell, and misty steps out of there back into the main room.
 
+Kelryth is inside some sort of ice shard 'prison', incapacitated, taking cold damage encased in some sort of ice cube....but reappears after Charisma save!
 
+Quasar Thorbrek survive a fireball blast....barely, as Vellynne strikes down the large Nothic. A bright flash encases around Xeno and Vellynne...they trapped in some sort of clear box? The lead Nothic reappears next to Kelryth and casts something at him, invading his mind - probing his mind, searching for information - but he is able to hold off his searching! There is a connection between the nothic and Kelryth - and he probes back, invading his mind!
 
+Kelryth sees a man, regular human - wearing silk/gold robes, magic surge of magic flowing through him - the sky begins to tilt...its the fall of the city! Kelryth sees him in the future, crawling out from the rubble, looking for survivors, and then - see him looking sickly, hunched, as if he turning (the same sickness the group is succumbing to!). He WAS a wizard! He has some sort of hatred towards...someone, unknown who, but he seeks vengeance - directed towards the central tower, where someone clearly is that he knew. 
 
+The fight continues - minions everywhere, the group taking significant damage...the situation becomes increasingly more dire. Quasar is clinging to life as the fight goes on...looking worse for wear, as the nothic minions continue to affect the main area below control room. Gerald sends in his birds to help Kelryth and strikes down the wizard nothic that invaded Kelryth's mind! Only one human fighter remains, a few nothic minions and Avarice - but she disappeared, again?! She appears again, in a different spot, and flies upward! Xeno and Vellynne appear to be neutralized by the invisible cube, still...while the battle rages on. She shoots a blast of cold frigid air at both Kelryth and Thorbrek - AOE attack - massive cold damage, leaving them both badly wounded. 
+
+Kelryth flies upwards, wrath of sea, Thunder wave's and then desperate actions and casts Lightning bolt at 5th level - ZAPPPPPPPING Avarice, locked in magic battle high above, and reaches deep within himself and strikes her down - DEAD!
+
+Gerald runs over and helps Thorbrek. Avarice slowly rises up, singed from the zap, slowly, stands - but screams out 'no, no, I can still serve you!' as she is encased in ICE! She is encased in ICE and it sinks into a portal in the ground and disappears. Quasar strikes down the last remaining nothic. The quick heal and rush to the console to try and turn it off, stopping the crystal attacks and release both Xeno and Vellynne from their cube prison. They figure it out, de-activate it, and release them - regrouping after the massive battle between their nemesis!
+### Session 83
 
 
 
