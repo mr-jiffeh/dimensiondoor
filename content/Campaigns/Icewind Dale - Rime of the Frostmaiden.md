@@ -39,7 +39,7 @@ show starred files
 # Latest Session
 
 
-[[Icewind Dale - Rime of the Frostmaiden#Session 83]]
+[[Icewind Dale - Rime of the Frostmaiden#Session 84]]
 
 ---
 ## Prologue
@@ -1368,11 +1368,45 @@ The fight continues - minions everywhere, the group taking significant damage...
 Kelryth flies upwards, wrath of sea, Thunder wave's and then desperate actions and casts Lightning bolt at 5th level - ZAPPPPPPPING Avarice, locked in magic battle high above, and reaches deep within himself and strikes her down - DEAD!
 
 Gerald runs over and helps Thorbrek. Avarice slowly rises up, singed from the zap, slowly, stands - but screams out 'no, no, I can still serve you!' as she is encased in ICE! She is encased in ICE and it sinks into a portal in the ground and disappears. Quasar strikes down the last remaining nothic. The quick heal and rush to the console to try and turn it off, stopping the crystal attacks and release both Xeno and Vellynne from their cube prison. They figure it out, de-activate it, and release them - regrouping after the massive battle between their nemesis!
+
+#loot Avarice's staff, bag (spell book - Ythryn, sigil - conjuration, journal)
 ### Session 83
 
+Quasar and Kelryth investigate the control panel, and Quasar activates some buttons, releasing some minions that overtake the remaining guards, scurrying away - into the city.
 
+Group gathers themselves and make their way through the prison towards the entrance - looking to link back up with X-25, hoping he wasn't overrun by the released Nothic prisoners. They get to the entrance, hear metal scraping in the alley, and rush towards the sound....it is X-25 crawling with one arm and no legs. Tac...also dead. Kelryth looks down the alley and finds his missing limbs, but there is definitely damage to significant extent. Kelryth found the goblet of charms...but no sign of alchemy jug or gems.
 
+Thorbrek identifies this is the area where he was searching for the diamond and book - group looks to go after it to help potentially revive Grubtub! Inside the store, damaged heavily from the fall, Thorbrek finds the diamond he is after! Success - the others look through the shelves and cabinets in the other parts of the store - finding #loot large wooden box - inside there is a velvet lined interior with a spherical crystalline orb. 
 
+Short Rest - x4 hit dice, and cast greater restoration on Thorbrek, curing him of his sickness. (Gerald very sick, Vellynne and Quasar starting sickness, Kelryth hunger curse). Kelryth tries to read Avarice's journal but a bright flash of light is triggered - and Kelryth finds himself in a void? Sound of footsteps walking towards him, and a blue light emerges - a man holding a glowing blue light in the palm of his hand. "Hello again" - WHAT! This appears to be who has spoken to Kelryth before! It's the Frozen Prince! He offers aid, in return for a relic returned to him from the central tower. He is looking for a large spindle like creation, touch the gemstone to the relic, mutter incantations and be rewarded with power. The device would balance the 'scale' and wouldn't impact this realm....feels too good to be true? The relic holds some sort of power he wants to wield. He offers a sample of his power, as Kelryth accepts the necklace that he can call him. (WARLOCK CANTRIP/SPELL ACCESS) - until long rest.
+
+Quasar works on X-25 during short rest, attaching limbs, such that he can walk, but functionality not restored - will need extensive work to fully repair.
+
+#ArcaneOctad 
+
+- Step 1. Hold a wand crafted from the Nether Oak over your heart. 
+- Step 2. Summon a fire in the palm of your hand
+- Step 3. Speak a secret about yourself aloud.
+- Step 4. Compel a secret from another.
+- Step 5. Extinguish the flame in ice.
+- Step 6. Mask your appearance.
+- Step 7. draw a circle on the group with ashes of corpse
+- Step 8. Stand inside the circle and consume poison.
+
+Group looks to get Grubtub from the grove, resurrect him with the help of the High Necromancer, and then head to the central tower. Xeno runs off - disappearing into the darkness...group lets him go, unbothered by his departure but confused as to the why behind it.
+
+Thorbrek recovers Grubtub and they make their way back to the Necromancy tower, finding the High Necromancer in the middle of...preparations, for...his end? He acts as if he isn't doing that, but we all know. Just in time, clearly. Thorbrek demands his end of the bargain is held up - bring back Grubtub, and kill himself later if he must, but tries to deter him. The ritual requires the help of several people to try and coax the soul back into the body and resurrect him!
+
+Kelryth says a few words, minor illusions - and makes a yeti call to him. Gerald cooks him meat to entice and feed him, Quasar uses his slingshot and tries to make him remember firing it, Thorbrek pulls out a toy from his youth, and calls out to him - telling him he needs him. The High Necromancer completes the ritual - and Grubtub is RAISED FROM THE DEAD. HE LIVES! GRUBTUB IS ALIVE!
+
+Group goes to the central tower, looking to perform the ritual and bring down the barrier. Kelryth is reluctantly nominated to perform the ritual. He performs the steps in order - with the help of Quasar secret, Thorbrek poison, and as the last step occurs - while in Badger shape, the console pulses, energy rippling around them, a flash of light that vibrates the entire city... the barrier glows and fades away, it has been brought down!
+
+They go down into the base of the tower where the Mythallar is located - the source of control of the weather? The room itself appears to be warmer, in the central a glowing orb - like a mini sun - surrounding by rings as it radiates energy. Vellynne detects magic, identifies it as remarkably powerful - an artifact that can be attuned to?! Gerald convinces himself to try and attune to it - learn how to use it, as he drops wolf form.  He attempts, but - something or someone is stopping him from attuning to it?
+
+As they discuss next steps, the air begins to cool, their breath is visible once more, and the light from the mythallar's light dims, ice creeps back in, the air itself burns their lungs from the extreme cold. the very foundation of the city itself seems to shudder. A voice rings out, one they've heard before "mortals, you stand upon the bones of a sunken empire. touching, what is mine - what I have frozen. Every scrap of ancient power, resting in the dark...belongs to ME. You think you have discovered a forgotten ruin, but I have claimed the city, I have covered the city in frost, it is mine. NOW a wretched group of grave robbers trying to end this winter, you will not take anything from this city. Not a single flake of snow shall be melted. Your quest is doomed, and I shall freeze you along with it!".
+
+Outside the area there is a vortex of swirling ice and snow, as more and more pairs of glowing blue ices appear - as they start to walk through the tunnels towards the group - Frost Giants, Imps, etc. Oh, no.
+### Session 84
 
 
 
