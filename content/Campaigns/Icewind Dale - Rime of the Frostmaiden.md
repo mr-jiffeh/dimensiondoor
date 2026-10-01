@@ -39,7 +39,7 @@ show starred files
 # Latest Session
 
 
-[[Icewind Dale - Rime of the Frostmaiden#Session 84]]
+[[Icewind Dale - Rime of the Frostmaiden#Session 85]
 
 ---
 ## Prologue
@@ -1403,10 +1403,33 @@ Group goes to the central tower, looking to perform the ritual and bring down th
 
 They go down into the base of the tower where the Mythallar is located - the source of control of the weather? The room itself appears to be warmer, in the central a glowing orb - like a mini sun - surrounding by rings as it radiates energy. Vellynne detects magic, identifies it as remarkably powerful - an artifact that can be attuned to?! Gerald convinces himself to try and attune to it - learn how to use it, as he drops wolf form.  He attempts, but - something or someone is stopping him from attuning to it?
 
-As they discuss next steps, the air begins to cool, their breath is visible once more, and the light from the mythallar's light dims, ice creeps back in, the air itself burns their lungs from the extreme cold. the very foundation of the city itself seems to shudder. A voice rings out, one they've heard before "mortals, you stand upon the bones of a sunken empire. touching, what is mine - what I have frozen. Every scrap of ancient power, resting in the dark...belongs to ME. You think you have discovered a forgotten ruin, but I have claimed the city, I have covered the city in frost, it is mine. NOW a wretched group of grave robbers trying to end this winter, you will not take anything from this city. Not a single flake of snow shall be melted. Your quest is doomed, and I shall freeze you along with it!".
+As they discuss next steps, the air begins to cool, their breath is visible once more, and the light from the mythallar's light dims, ice creeps back in, the air itself burns their lungs from the extreme cold. The very foundation of the city itself seems to shudder. A voice rings out, one they've heard before "mortals, you stand upon the bones of a sunken empire. Touching, what is mine - what I have frozen. Every scrap of ancient power, resting in the dark...belongs to ME. You think you have discovered a forgotten ruin, but I have claimed the city, I have covered the city in frost, it is mine. NOW a wretched group of grave robbers trying to end this winter, you will not take anything from this city. Not a single flake of snow shall be melted. Your quest is doomed, and I shall freeze you along with it!".
 
 Outside the area there is a vortex of swirling ice and snow, as more and more pairs of glowing blue ices appear - as they start to walk through the tunnels towards the group - Frost Giants, Imps, etc. Oh, no.
 ### Session 84
+
+Kelryth grabs his enchanted ice shard, crushes it in his hand (charm of perseverance - 24hr death ward, when downed, revived with 3d8).
+
+The group wild shapes and gives rides to those who can't, and make their way to the tower entrance - trying to dash away and move through the storm and creatures in their path. Quasar uses anti gravity bangles and the wolves and undead skeletons float upwards out of their path!
+
+Quasar tries to climb the stone of the tower - but not towards the central tower entrance? Kelryth (warhorse) cant climb, and charges forward with Vellynne atop his back - a wolf jumps out, but overshoots and slides past as the horse carries on.  Gerald fire shields and rushes through the storm towards the group, Grubtub holds on for dear life as he charges forward atop Thorbrek. Out of the storm a giant battle axe swipes and hits Warhorse Kelryth, slashing for 43 dmg!
+
+**Dash** (3x + Con = 5): 1, 2, 3, 4, 5
+
+Kelryth, rocked by the axe hit, looks through the storm - seeing a reference point of the tower of conjuration, and makes his way towards the tower entrance. The group charges forward, Quasar deciding to follow after attempting to climb, as they make their way through the raging storm and through the seemingly endless enemy. 
+
+Kelryth hears a strange language, unknown, something jumps from the roof top to hit him and Vellynne - knocking her off. A tall icy elvish looking creature stands over her sword drawn. Kelryth stops mid stride, drops shape, and ZAPS the creature with Eldritch Blast! She gets to her feet and attacks using necrotic energy - in the midst of the swirling snow.  Thorbrek dashes right past - leaving them to defend themselves....classic. The fight rages on, Gerald helps Kelryth and Vellynne get away - and all make their way to the tower entrance. Quasar got himself lost, and took the long way....making his way back to the group after some time, finally reaching the tower as well. All are back together, wounded badly, inside the tower entrance - arriving at some sort of ring with crystals around it? They enter it, and after a moment - they float and start to travel up the corridor - no one seems to follow after them?
+
+They leave the platform of the elevator and cross the bridge towards the only door. Head up the stairs to a large room, grand foyer, more stairs and an elevated platform overlooking them - with a couple of the blue constructs! They quickly move through a door and down the hall going deeper inside - arriving at what looks like a corridor with multiple offices. Inside typical office, but finding a set of writings detailing discussion about excavation site, finding an ancient relic Ostoria - and bringing it inside the city.  The rooms look like they have not been opened in some time, they assume some level of safety within here. 
+
+**Long Rest**
+
+As they awake, they drink from the cup of charms - earning benefits (can cast [[True Strike]] until next Long Rest). As soon as Thorbrek and Quasar drink....they turn to BATS. WTH?! Kelryth gets +10 temp HP?! Odd. Gerald has a sword materialize before him, seemingly following him and unable to be grabbed....odd. Something is off about the goblet, uncontrollable outcomes when drank from. MOONBEAM - and both Thorbrek and Quasar are reverted back to their normal selves, singed by radiant energy.
+
+As they step out into the hallway, something glows - and someone appears within the hallway in front of them, Bald, pale skin, fine silk robes, eyes are completely black and says "Greetings fellow wizards, welcome to the Central Tower, my Master Iriolarthas chambers. I am Everlast, I hope you are rested well." 
+
+Swap Spells?
+### Session 85
 
 
 
