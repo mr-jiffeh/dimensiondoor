@@ -39,7 +39,7 @@ show starred files
 # Latest Session
 
 
-[[Icewind Dale - Rime of the Frostmaiden#Session 85]
+[[Icewind Dale - Rime of the Frostmaiden#Session 86]]
 
 ---
 ## Prologue
@@ -1427,9 +1427,40 @@ They leave the platform of the elevator and cross the bridge towards the only do
 As they awake, they drink from the cup of charms - earning benefits (can cast [[True Strike]] until next Long Rest). As soon as Thorbrek and Quasar drink....they turn to BATS. WTH?! Kelryth gets +10 temp HP?! Odd. Gerald has a sword materialize before him, seemingly following him and unable to be grabbed....odd. Something is off about the goblet, uncontrollable outcomes when drank from. MOONBEAM - and both Thorbrek and Quasar are reverted back to their normal selves, singed by radiant energy.
 
 As they step out into the hallway, something glows - and someone appears within the hallway in front of them, Bald, pale skin, fine silk robes, eyes are completely black and says "Greetings fellow wizards, welcome to the Central Tower, my Master Iriolarthas chambers. I am Everlast, I hope you are rested well." 
-
-Swap Spells?
 ### Session 85
+
+Group talks to Everlast, failing to convince him to bring him to his master - but move on anyways, exploring deeper into the tower.
+
+They find a 'statue', talking, named Veneranda. It is the construct they learned about from past experiment! She asks for assistance, helping her to see - revealing a brain in a clear jar atop the construct, but she remains 'stuck'! They try to unscrew her from the body, but its rusted. Thorbrek 'greases' her threads and they are able to remove her head and bring her with them (Ven).
+
+Head up the stairs near the blue constructs, who immediately draw their weapons and take defensive stance. Kelryth tries to negotiate, but Ven is able to convince them...? they proceed down a hallway with glass floor - seeing the active blizzard below. Make their way to the door at the end of the hall, see a dais surrounded by 8 statues - wizards, clearly the apprentice wizards of each school of magic. The group steps atop the dais, it glows and rises through a hole in the floor - magic elevator.
+
+At the top there is a frozen glass dome, but through the frosted ice there are two void swords - like a black hole and a green arcane light atop the dome...and a door through them on the other side.  Kelryth tries to melt the ice, it works - but barely...Quasar fires at it with his laser pistol and ricochet hits KELRYTH! Thorbrek tries to dispel magic....and nothing. Odd. Thorbrek tries to thunderwave the barrier apart, but no effect. Quasar casts Moonbeam - the crystal is bathed in light, but nothing happens?!  It then appears inside the bubble and attacks the group! HOLY SHIT THEY HIT - damage to Gerald and Thorbrek!! Fight! Swords continue to swing, group fights inside while Gerald misty steps out and shatters the crystal above them - the barrier falls! 
+
+The door opens, group move towards it, Kelryth first into the hall - flashes- and is restrained and unable to use his legs? One sword remains and the group considers staying to finish the sword, but there is reluctance to leave it 'alive'. Quasar goes into the hallway and immediately restrained as well! There are some sort of glyphs on the floor that trigger upon stepping....affecting Vellynne as well! Gerald, Thorbrek, and X-25 make their way into the hall, slamming the door behind them shut. The room has grey start to consume them - as if they start to turn to stone from the feet up! Kelryth turns to stone - a statue! Vellynne ALSO turns to stone....three statues now. Oh, no. They have been [[Petrified]]. Thorbrek, Gerald, and X-25 are the only ones left untouched by the petrification magic. The statue bodies get placed to the side, out of immediate harm's way. Thorbrek and Gerald decide to leave them, for now, to try and find a way to dispel or cure them.
+
+Thorbrek and Gerald keep moving on, finding themselves in the library.
+
+### Session 86
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
