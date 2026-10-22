@@ -39,7 +39,7 @@ show starred files
 # Latest Session
 
 
-[[Icewind Dale - Rime of the Frostmaiden#Session 86]]
+[[Icewind Dale - Rime of the Frostmaiden#Session 87]]
 
 ---
 ## Prologue
@@ -1442,6 +1442,35 @@ The door opens, group move towards it, Kelryth first into the hall - flashes- an
 Thorbrek and Gerald keep moving on, finding themselves in the library.
 
 ### Session 86
+
+Thorbrek, blind without his familiar, X-25, Gerald, and Krang Ven make their way to the library. 
+
+Kelryth sees nothing but a void around him, but he hears a familiar voice! Deep, welcoming voice...Frozen Prince?
+"My boy, Kelryth - you seem to have gotten yourself into a predicament of sorts....turned to stone, trapped for eternity, eh? I can understand...but I can help you, you just need to accept my gift and I will remove this stone form. I suppose you'll need some sort of way to agree. Bring me the artifact, as per our agreement." He produces a contract out of nothing, beseeching his 'mark'/signature from Kelryth. Kelryth agrees - signs the agreement, as does he, thanking him for his support - reminding him to find the artifact and return it to him. He swirls his hand, energy flows through Kelryth, and he is no long petrified - in the void and in the material plane!
+
+*Kelryth can choose to become a WARLOCK*
+
+Gerald goes into the library, reading inscriptions - trying to understand what is required to activate any magic requirements.
+
+Ven is used to look around the room and try to decipher what she sees amongst the books, finding an adamantium key? 
+
+There is a pull from the other room, Kelryth answers the call and moves towards it. It is a sliver crystal, dark geode like? The energy pulsates, floating above a pedestal. Kelryth approaches and investigates further - the pedestal appears to be warped, damaged by some sort of force that bent and melted it? Scorch marks are presented around it - as if something was cast against it. Kelryth learns that he needs a large power source to complete the ritual to send this back (option is X-25 core or Staff of Power). Kelryth casts Identify on the crystal - Gerald tries to take the necklace off of Kelryth sneakily....but he spins to prevent it. Energy blasts from the crystal knocking back some of the group, while Gerald snatches the necklace from Kelryth's neck!
+
+The blast continued down the hall - and both Quasar and Vellynne are no longer stone?! X-25 is powered down?!
+
+Quasar investigates the crystal, seeing energy tendrils - seeming winding through the space. He reaches up and grabs 'nothing' to the rest of the group, but to him - his eyes roll back into his skull as if he is in a trance? He is teleported to the inside of his family's ship? seeing Elves walk past him - he calls out, but no response.
+
+Group waits some time, crystal seems to power down and magic works once more....odd. They sit at the table and cast something from each of the schools of magic - activating a swirling portal next to the table, as if to beckon them forward. They enter the portal one at at time - and appear within a large study. Within the room there appears to be frantic notes that took a long time to collect and sort. There is a pale human, long white hair, sitting at a desk. Ven confirms it is the high mage!
+
+Gerald calls out to him as the group moves closer - The mage requests for Everlast's presence, stating he does NOT wish to be disturbed. He appears to be hunched over, while Gerald and Quasar notice a greenish/blue hue of energy moving around him. Wherever the energy is present - it appears to age him rapidly. He wants to fix 'everything' and asks them to leave. The group resist, initially - stating there is nothing to save. They inquire about the fall of the city - trying to understand what happened and how it became to be.
+
+The high wizard recalls the story, speaking of their desire to uncover the secret of the giants from long ago. One fateful day, they found an ancient artifact deep within the Earth, it was brought aboard the ship - called the 'Spindle'. It has the ability to cancel out magic, render inert. It exploded - turning off the Mythalar, causing the city to fall to the earth....landing where it stands today. He looks to undo the damage he caused directly, trying to make amends and make it right? He wants to mess with the magic of TIME! He thinks he can do it with the use of the obelisk, go back in a blink of an eye, change the fate of the city - and bring back all the lives lost in the dragon attack, and prevent the endless winter. He seems to press less, and makes formal introductions. The wizard places his hand upon Thorbrek's face, magic swirls....and Thorbrek has his EYES back - he can see! The wizard tries to bargain with the group - to try and find a way to leverage chronomancy and stop the fall of the city, the permanent winter, etc.
+
+The group spends time considering their options, trying to determine if they should believe his intentions or take his word on viable options. 
+
+### Session 87
+
+
 
 
 
