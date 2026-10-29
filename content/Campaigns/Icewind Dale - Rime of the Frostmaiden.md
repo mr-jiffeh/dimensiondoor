@@ -39,7 +39,7 @@ show starred files
 # Latest Session
 
 
-[[Icewind Dale - Rime of the Frostmaiden#Session 87]]
+[[Icewind Dale - Rime of the Frostmaiden#Session 88]]
 
 ---
 ## Prologue
@@ -1448,7 +1448,7 @@ Thorbrek, blind without his familiar, X-25, Gerald, and Krang Ven make their way
 Kelryth sees nothing but a void around him, but he hears a familiar voice! Deep, welcoming voice...Frozen Prince?
 "My boy, Kelryth - you seem to have gotten yourself into a predicament of sorts....turned to stone, trapped for eternity, eh? I can understand...but I can help you, you just need to accept my gift and I will remove this stone form. I suppose you'll need some sort of way to agree. Bring me the artifact, as per our agreement." He produces a contract out of nothing, beseeching his 'mark'/signature from Kelryth. Kelryth agrees - signs the agreement, as does he, thanking him for his support - reminding him to find the artifact and return it to him. He swirls his hand, energy flows through Kelryth, and he is no long petrified - in the void and in the material plane!
 
-*Kelryth can choose to become a WARLOCK*
+*Kelryth can choose to become a WARLOCK* (Patron - Levistus)
 
 Gerald goes into the library, reading inscriptions - trying to understand what is required to activate any magic requirements.
 
@@ -1464,11 +1464,33 @@ Group waits some time, crystal seems to power down and magic works once more....
 
 Gerald calls out to him as the group moves closer - The mage requests for Everlast's presence, stating he does NOT wish to be disturbed. He appears to be hunched over, while Gerald and Quasar notice a greenish/blue hue of energy moving around him. Wherever the energy is present - it appears to age him rapidly. He wants to fix 'everything' and asks them to leave. The group resist, initially - stating there is nothing to save. They inquire about the fall of the city - trying to understand what happened and how it became to be.
 
-The high wizard recalls the story, speaking of their desire to uncover the secret of the giants from long ago. One fateful day, they found an ancient artifact deep within the Earth, it was brought aboard the ship - called the 'Spindle'. It has the ability to cancel out magic, render inert. It exploded - turning off the Mythalar, causing the city to fall to the earth....landing where it stands today. He looks to undo the damage he caused directly, trying to make amends and make it right? He wants to mess with the magic of TIME! He thinks he can do it with the use of the obelisk, go back in a blink of an eye, change the fate of the city - and bring back all the lives lost in the dragon attack, and prevent the endless winter. He seems to press less, and makes formal introductions. The wizard places his hand upon Thorbrek's face, magic swirls....and Thorbrek has his EYES back - he can see! The wizard tries to bargain with the group - to try and find a way to leverage chronomancy and stop the fall of the city, the permanent winter, etc.
+The high wizard recalls the story, speaking of their desire to uncover the secret of the giants from long ago. One fateful day, they found an ancient artifact deep within the Earth, it was brought aboard the ship - called the 'Spindle'. It has the ability to cancel out magic, render inert. It exploded - turning off the Mythallar, causing the city to fall to the earth....landing where it stands today. He looks to undo the damage he caused directly, trying to make amends and make it right? He wants to mess with the magic of TIME! He thinks he can do it with the use of the obelisk, go back in a blink of an eye, change the fate of the city - and bring back all the lives lost in the dragon attack, and prevent the endless winter. He seems to press less, and makes formal introductions. The wizard places his hand upon Thorbrek's face, magic swirls....and Thorbrek has his EYES back - he can see! The wizard tries to bargain with the group - to try and find a way to leverage chronomancy and stop the fall of the city, the permanent winter, etc.
 
 The group spends time considering their options, trying to determine if they should believe his intentions or take his word on viable options. 
 
 ### Session 87
+
+Group look to the walls, read through the seemingly random/mad notes - to try and understand what the wizard is after, how to navigate the ritual...to travel through time to a specific place.  The group finds various pieces, some connected...others not - trying to understand what went wrong and how to potentially improve and correct it.
+
+Quasar finds something that doesn't make sense, as if the mage has already solved it - but when he performed it initially seem to almost erase him from time?? He needs an anchor, or multiple, to tether him to this place and time. Someone or something could help anchor them - but there is a risk, some unknown percentage chance they themselves are erased from time!
+
+Kelryth tries to convince the Arch Mage to give up his time travel efforts and focus on the future, help him rid the Spindle (give it to his Patron), and re-raise the city and restore it to glory - by moving forward. He ponders on it momentarily, considers it - admits its been so long since he has had a conversation with anyone - isolated by his thoughts, research, and efforts. It feels good to have the possibility of having students once more. 
+
+Kelryth then asks for the Staff of Power to help power the ritual, enabling him to complete the ritual and get rid of the Spindle - sending it off this plane of existence to his Patron. Archmage Iriolarthas agrees to hand over his Staff of Power - and agrees to letting Kelryth complete the ritual! The portal opens once more, the group travels through it - into the room, walking out onto the table and through the hall to where the Spindle is. As the group makes there way to the room, Kelryth feels a familiar weight upon his neck - the necklace is back....a gift from his patron no doubt. Kelryth takes chalk out of his pact, draws arcane symbols around the base of the floating spindle, placing the staff at the apex of the drawing - as it pulses with power. Kelryth then takes a dagger out, cuts his hand, and then coats the shaft of the staff - as it turns to frost!  He begins to mutter an incantation as the runes glow around the room - a FLASH of light appears - a portal opens up beneath the spindle, a tear in the fabric of reality, as an intense cold emits into the room as the blast of cold feels intense, as if on the island of Auril. Kelryth reaches out - and commands the Spindle to move downwards into the portal. The staff of Power is held upright by magic , wobbles, and then is gone....fully, it is no longer here - nor is the Spindle! The room is caked in frost, but it appears to have worked?! The group is wary after what they witnessed, but it worked!
+
+Kelryth apologizes for his staff being consumed, offers to give him the Staff of Charming as a token of his appreciation. Group explains the need to use the Mythallar to end the endless winter. Archmage beckons them to come together, hold hands, and teleports them all to the base of the Mythallar - a giant ball of sun rotating within the rings. Arch mage Iriolarthas states he has unlocked its power, beckoning them to attune to it (make it fly, control weather - large radius, and can restore charges to magical weapon with charges (can't be done until all charges used)).
+
+Thorbrek and Gerald elect to attune to the Mythallar, while Arch Mage and Ven teleport out, leaving the group there at the base of the structure. As they work to attune to the device, the air turns to frigid cold, becomes difficult to breathe, frost creeps in and starts to dim the Mythallar itself?! It's as if the glacier itself groans under the extreme cold. A voice is heard... Auril herself!
+
+"You stand among the bones of a sunken empire, plundering what is MINE, what I have frozen for thousand of years, every stone and secret beneath this glacier belongs to me!". Auril the Frost Queen steps out of the portal with two large frost giants wielding giant axes - looking at them. "you think you have discovered your salvation in this ruin, I have claimed this city, locked away in my vault. And NOW, you wretched grave robbers dare steal what is mine, while looking to end my winter?! You will not melt a single flake of snow in my domain, your quest ends here, you will be frozen here - along with everything else in this city!"
+
+FIGHT!
+
+Kelryth casts fireball! Auril immediately responds with ice shards falling from the sky and landing on nearly the entire party. Thorbrek rushes in and swings recklessly...then is immediately surrounded by the ice giants and hit for MASSIVE damage. The group focuses on the giants initially, while Vellynne casts Finger of Death and lands massive necrotic damage to Auril! The fight continues - one giant is slain, but the others take a heavy toll from Auril - as she continues to wreck them with direct damage. The group focuses on the remaining giant while Vellynne continues to blasts Auril directly. Auril swoops down and moves to claw swipe Quasar, hitting numerous times. Thorbrek wrecks the remaining giant, breaking a leg and forcing to its knees. Auril remains hovering in the air - attacking the group without fail. Quasar hits her with moonbeam, recognizing the radiant damage does something more to her - as she screams out in pain when struck. Gerald leap up and rips the head off the remaining frost giant - killing it, leaving only Auril...but she continues to hit with every attempt, massive cold damage. Kelryth runs over and casts Astral Flood...to minor effect, and is immediately swiped at - but he casts Shield to avoid the attacks. Thorbrek runs over and slams his club into her skull - crashing through it, revealing her core to be ice as her entire form turns to an ice statue?!
+
+The air immediately grows thin and cold as her voice shrieks out "ENOUGH, you cling to life like weeds in the permafrost. You want warmth? I will give you the sting of snow. I have seen empires fall within the snow and disappear. You are nothing mortals in my eternal night!" As she reappears in a new form! A woman made of pure glass?!
+
+### Session 88
 
 
 
