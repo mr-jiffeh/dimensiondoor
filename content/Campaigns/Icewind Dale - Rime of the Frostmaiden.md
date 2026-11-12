@@ -18,13 +18,13 @@ show starred files
 
 ## Adventuring Party
 
-| Character Name | Species  | Class / Multi-Class                              | Subclass            | Player |
-| -------------- | -------- | ------------------------------------------------ | ------------------- | ------ |
-| DM             |          |                                                  |                     | Liam   |
-| [[Kelryth]]    | Half-Elf | [[Druid]] :LiPawPrint:                           | Circle of the Seas  | Justin |
-| Gerald         | Human    | [[Druid]] :LiPawPrint:                           | Circle of the Moon  | Sean   |
-| [[Quasar]]     | Loxodon  | [[Druid]] :LiPawPrint:                           | Circle of the Stars | Danny  |
-| Thorbrek       | Dwarf    | [[Druid]] :LiPawPrint: / [[Barbarian]] :LiGavel: | Circle of the Land  | Logan  |
+| Character Name                      | Species  | Class / Multi-Class                              | Subclass                   | Player |
+| ----------------------------------- | -------- | ------------------------------------------------ | -------------------------- | ------ |
+| DM                                  |          |                                                  |                            | Liam   |
+| [[Kelryth]] / [[Kelryth - Warlock]] | Half-Elf | [[Druid]] :LiPawPrint: / [[Warlock]]             | Circle of the Seas / Fiend | Justin |
+| Gerald                              | Human    | [[Druid]] :LiPawPrint:                           | Circle of the Moon         | Sean   |
+| [[Quasar]]                          | Loxodon  | [[Druid]] :LiPawPrint:                           | Circle of the Stars        | Danny  |
+| Thorbrek                            | Dwarf    | [[Druid]] :LiPawPrint: / [[Barbarian]] :LiGavel: | Circle of the Land         | Logan  |
 
 ### NPC & Locations
 
@@ -39,7 +39,7 @@ show starred files
 # Latest Session
 
 
-[[Icewind Dale - Rime of the Frostmaiden#Session 88]]
+[[Icewind Dale - Rime of the Frostmaiden#Session 89]]
 
 ---
 ## Prologue
@@ -1502,7 +1502,31 @@ Portals open up, and more creatures appear - ready to attack the group once more
 
 ### Session 89
 
+The fight continues - Kelryth fighting the wolf and mephit closest to him, while Thorbrek slays the giant. Auril obscures herself in swirling snow and emits a white brilliance of light in a blast through the room - nearly blinding those closest. 
 
+X-25 remains trapped inside an ice dome, unable to escape. Gerald, gets up from prone - and mass cure wounds, healing himself and others (40hp!) and returns to wolf form! Vellynne kills the wolf near Kelryth and then Kelryth turns and reaches out, grabs the mephit and firebolts it - causing it to explode immediately. The group moves closer to Auril, trying to surround her and coordinate strikes against her. Quasar uses a spectral arrow - pulling Auril downwards towards them. The swirling frost energy around her swirls more, expanding outward, affecting those closest once more!
+
+X-25 breaks out of the ice prison with help from others, Gerald is repeatedly knocked down and unconscious - but revived by Quasar, as the group further collapses around her. The swirling snow storm around her grows larger and more intense - yelling out 'you will all perish this day!'. Gerald is down yet again, Thorbrek, supersized, continues to beat her in close range and try to bring her down to ground level. The storms intensity grows - hurting all those in the vicinity more. X-25 closes the distance and fires his laser pistol, hitting multiple times. Gerald is hit with another ice lance while down and is instantly killed! Quasar guiding bolts while yelling in rage. The intensity of the storm continues - but seems to flutter and almost lower slightly?
+
+Thorbrek rages once more, swings with all his might, and immediately breaks chunks off of her form and headbutting her form over and over and over - as they descend downward to the ground. Auril screams out in pain, shrill shrieking, and yells out 'NO, MY RIME, MY ENDLESS PERFECTION, NOOOO. Go on then, bring upon your precious spring, the stench of rot and decay - REMEMBER THIS mortals, as you watch the snow melt, every drop of water is a tear I shed for this world's weakness. I will be there in every dark shadow, every chilled breath, I am the chilling end, and the end is comin' - Thorbrek stomps out the remains of Auril before she can finish.
+
+They rush over to Gerald's lifeless corpse - to see if they can do anything at all. Vellynne casts [[Gentle Repose]] on his body.
+
+The group decide to split duties, Quasar to attune to the Mythallar while Thorbrek, X-25, and Kelryth take Gerald's body one of the mage towers to try and see if there is a way to restore him to his body in this suspended state. Once there they find that Catavix is in the process of moving out. Thorbrek starts tearing into buildings, searching wildly - finding nothing. Thorbrek and Kelryth search, find nothing, but then decide to go to the telescope - and try to search for it.
+
+Quasar is able to attune to the device - and control weather for up to 50 miles radius! If you hold a magic item near the Mythallar near it, you regain all of it's charges (can't be recharged until all charges used). 
+
+Quasar tries to lift the city, the city that has been resting here within the glacier for 1000+ yrs, it groans and shakes - and nearly causes a catastrophe, being told to immediately stop by the Arch Mage who warned him to stop before he destroys the city. Quasar attempts to give direction to the Arch Mage - but is cautioned by taking these actions too hastily. He warns him NOT to mess with the Mythallar, for now. This is no easy quick fix and caution must be taken before any ill thought plans.
+
+Quasar is teleported by the Arch Mage to the telescope tower, where Thorbrek is already waiting outside and Kelryth is inside - peering into it, searching for the diamond. Kelryth looks through it, sees the city, it scans - looking for each quadrant at a time, not stopping on anything....and LOSES HIS EYE. Quasar arrives, and takes a look himself - trying to find the diamond (much better roll!) - he finds one of the outer spires on the edge of the city and finds what he believes to be a diamond! The group travels the distance across the city - trying to reach and get to the diamond. They take a **Long Rest** before making the rest of the journey across the city.
+
+Vellynne departs the group - electing to go to the tower and help the Arch Mage, seeing restoring the city as her new mission. Quasar deputizes her - welcoming her into the Wardens of the North as a permanent member. She asks that they say good bye for her to Gerald, once he is resurrected, and teleports back to the central Tower.
+
+The group gets to the tower, finds the diamond within it, making their way back to Catavix to try and initiate the ritual to resurrect Gerald. 
+
+Quasar, Kelryth, and Thorbrek bring his body to the grove - perform the ritual, trying to give offerings to his soul to try and guide him back to his body. A feint energy forms above Gerald's chest - it goes into his chest and pulsates throughout his body...and he GASPS for air. He lives once more!
+
+### Session 90
 
 
 
