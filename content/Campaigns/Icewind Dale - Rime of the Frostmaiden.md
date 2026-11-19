@@ -39,7 +39,7 @@ show starred files
 # Latest Session
 
 
-[[Icewind Dale - Rime of the Frostmaiden#Session 89]]
+[[Icewind Dale - Rime of the Frostmaiden#Session 90]]
 
 ---
 ## Prologue
@@ -1526,8 +1526,35 @@ The group gets to the tower, finds the diamond within it, making their way back 
 
 Quasar, Kelryth, and Thorbrek bring his body to the grove - perform the ritual, trying to give offerings to his soul to try and guide him back to his body. A feint energy forms above Gerald's chest - it goes into his chest and pulsates throughout his body...and he GASPS for air. He lives once more!
 
+#LevelUp (Level 11)
 ### Session 90
 
+*Epilogue - what happens next for each character?*
+
+Group discusses the options to them, trying to determine next steps - help the city or return to Bryn Shander. 
+
+They spend a week or so cleaning up the city, ridding it of nothic, reducing the ice sheet over the city, etc. They bid farewell, and make their way to Bryn Shander - stopping at the dryad grove, and through the caves of hunger back out of the glacier. Quasar dispels the magic binding her to the fallen grove - enabling her to leave the glacier with them for the first time since the city last fell!
+
+They make it outside of the glacier to a bright and sunny scene - perma winter has ended! There is a statue of the Druid who covered their original entrance to the glacier, but defeated by Auril in the end...sacrafice not in vain, at least. Quasar slams the staff down and plants an oak tree in honor of his end.
+
+They take a few days to travel, and are greeted by the sun in the morning - a sight not seen in years since Auril's reign, confirming the curse has been lifted. The Wardens of the North have been victorious!
+
+They make it back to Bryn Shander - the people are out, spirits are high, and hard at work restoring the city after its decimating from the dragon weeks ago. They meet with Duvessa, who is overcome with joy and thankful for their efforts and impact to the Ten Towns. Tells of the yeti's helping in Bremen, the church of Auril being all but dismantled, and the other towns needing to rebuild and elect new mayors - and prepare the city for the arrival of the floating city. 
+
+Quasar and group make their way to his enclave, trying to link up with them. When they get there - they are greeted by Elves, that haven't left yet! They are greeted by the leader, coldly, but able to communicate their efforts - and reveal the impact they've had, now enabling them to once more power their ships. He is reluctant - but puts his hand on Quasar's shoulder and embraces him fully - like a proud father! He bestows upon him a formal place amongst their clan, and welcomes him to their journey, leaving immediately. Quasar asks for Kelryth to join them and is granted acceptance as well, as he aided in their victory.
+
+Gerald and Thorbrek says their place is not on the ship, but out 'there' - back to the Dale. Quasar's mom runs and tackles him, she is so proud - thrilled for his return and him joining them, along with Kelryth.
+
+They feast, celebrate, and drop Gerald and Thorbrek off at Bryn Shander before Quasar and Kelryth sail the high seas of space!
+
+Once a Warden, always a Warden.
+
+Thorbrek goes to Bremen with Grub Tub, going back to living his old life, but watching after his son and being an intermediary between the Yeti's and humans in the Dale.
+
+Gerald becomes a protector of the woods, in sorts. park ranger and keep nature in balance.
+
+The Dale is saved, the ancient city is freed, nature is restored, and the Warden's walk their individual path's forward.
+### End
 
 
 
